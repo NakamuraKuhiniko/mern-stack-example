@@ -1,2 +1,2 @@
-# mern-stack-example
-Example Project on how to create MERN Stack
+# mern-stack
+Project on how to create MERN Stack
